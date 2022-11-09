@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EyeTrackingMouse" GeneratedClassName="SudokuGridSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="StrokeSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SecondaryStrokeSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="NumberOfColumns" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="NumberOfRows" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="BackgroundOpacity" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.18</Value>
+    </Setting>
+    <Setting Name="TextOpacity" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.6</Value>
+    </Setting>
+    <Setting Name="StrokeOpacity" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.4</Value>
+    </Setting>
+    <Setting Name="SecondaryStrokeOpacity" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
